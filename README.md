@@ -81,7 +81,7 @@ Requires datasets downloaded separately.
     python scripts/extract_tifs.py --config configs/tifs.yaml --arch xception --dataset faceforensics --seed 42
 
     # Step 3: Aggregate
-    python scripts/aggregate_results.py --config configs/tifs.yaml
+    python scripts/aggregate_results.py --all-archs --config configs/tifs.yaml
 
 ## Pre-computed Features
 
