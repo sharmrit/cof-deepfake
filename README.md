@@ -68,7 +68,7 @@ Skips training and extraction. Reproduces all Tables III-IX.
     python scripts/eval_baselines.py
 
     # Reproduces Tables IV, XI (cross-domain)
-    python scripts/cross_domain_eval.py --all-archs
+    python scripts/cross_domain_eval.py --all-archs --config configs/tifs.yaml
 
 ### Option B: Full reproduction from scratch
 
