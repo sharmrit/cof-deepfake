@@ -19,7 +19,7 @@ If you find this work useful, please cite:
 @article{sharma2026cof,
   title={Architecture-Adaptive Uncertainty Fusion for Deepfake Detection},
   author={Sharma, Ritesh and Ghasemigol, Mohammad and Motai, Yuichi},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2606.06666},
   year={2026}
 }
 ```
@@ -30,7 +30,7 @@ This repository accompanies the paper:
 
 **Architecture-Adaptive Uncertainty Fusion for Deepfake Detection**
 
-Preprint available on arXiv: https://arxiv.org/abs/XXXX.XXXXX
+Preprint available on arXiv: https://arxiv.org/abs/2606.06666
 
 A revised version of this work is currently under review at *IEEE Transactions on Information Forensics and Security (TIFS)*.
 
