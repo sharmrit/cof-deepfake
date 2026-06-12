@@ -11,15 +11,29 @@ Official code release for the IEEE Transactions on Information Forensics and Sec
 
 ## Citation
 
-If you use this code or pre-computed features, please cite:
+## Citation
 
-    @article{sharma2026cof,
-      title={Architecture-Adaptive Uncertainty Fusion for Deepfake Detection},
-      author={Sharma, Ritesh and Ghasemigol, Mohammad and Motai, Yuichi},
-      journal={IEEE Transactions on Information Forensics and Security},
-      year={2026},
-      note={Under review}
-    }
+If you find this work useful, please cite:
+
+```bibtex
+@article{sharma2026cof,
+  title={Architecture-Adaptive Uncertainty Fusion for Deepfake Detection},
+  author={Sharma, Ritesh and Ghasemigol, Mohammad and Motai, Yuichi},
+  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  year={2026}
+}
+```
+
+## Paper
+
+This repository accompanies the paper:
+
+**Architecture-Adaptive Uncertainty Fusion for Deepfake Detection**
+
+Preprint available on arXiv: https://arxiv.org/abs/XXXX.XXXXX
+
+A revised version of this work is currently under review at *IEEE Transactions on Information Forensics and Security (TIFS)*.
+
 
 ## Overview
 
